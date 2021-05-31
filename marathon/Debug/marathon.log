@@ -1,0 +1,5 @@
+﻿  MyForm3.cpp
+C:\Users\Светлана\Desktop\bd_vera_labs\marathon\marathon\MyForm3.h(18,17): warning C4677:  func: сигнатура члена, не являющегося частным, содержит частный тип сборки "Functions"
+C:\Users\Светлана\Desktop\bd_vera_labs\marathon\marathon\Functions.h(11): message :   см. объявление "Functions"
+  Functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  marathon.vcxproj -> C:\Users\Светлана\Desktop\bd_vera_labs\marathon\Debug\marathon.exe
